@@ -1,7 +1,5 @@
 """
 Name: Carter Salna
-Netid: salnacar
-PID: 160532344
 External Resources Used:
 1. csv library
 2. json library
